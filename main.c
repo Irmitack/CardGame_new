@@ -1,24 +1,6 @@
 /*main.c*/
 /***************************************************/
-/* 
- Irma Castillo Koelig 
-   assignment #3 Deck of Cards, Thursday, 6 October 2016, 6:25 PM
 
-   program description
-     program will accept number of players and number of cards
-     program will format output showing a deck of cards                         
-    
-
-   "I hereby certify that this collective work is my own and none of it is the
-   work of any other person or entity, but I use online help from website, and
-   from peers. "  
-   * Irma Castillo Koelig 5619244
-
-
-   how to compile and execute
-     cardGame: main.c Card.c
-     gcc -o main main.c Card.c -I.
-*/
 /***********************************************************/
 #include "GameDefinitions.h"
 #include "Cards.c"
