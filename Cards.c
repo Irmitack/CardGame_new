@@ -1,6 +1,6 @@
 /*Cards.c*/
 /**************************************************************************** */
- Irma C 
+ /*Irma C 
    assignment #3 Deck of Cards, Thursday, 6 October 2016, 6:25 PM
 
    program description
