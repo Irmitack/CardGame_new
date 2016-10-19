@@ -1,8 +1,7 @@
 
 /*GameDefinitions.h*/
 /*****************************************************************************/
-/* COP4338 U03
-/*Irma Castillo Koelig 5619244
+/*
    assignment #3 Deck of Cards, Thursday, 6 October 2016, 6:25 PM
 
    program description
